@@ -1,4 +1,4 @@
-# Artifical Intelligence Advanced Topics (Bioinpired) Course
+# Artifical Intelligence Advanced Topics (Bioinspired) Course
 
 ## First Assignment
 
